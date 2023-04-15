@@ -100,11 +100,39 @@
                 }
             },
             "copyright": "hecho con ♥ por [charlola](https://www.heycharlola.com/)",
-            "main": {
-                "Contact": "Contacto"
-            },
             "title": "Sitio de Jesús",
             "weight": 2
+        },
+        "ko": {
+            "menu": {
+                "main": [
+                    {
+                        "name": "홈",
+                        "identifier": "home",
+                        "url": "/",
+                        "weight": 1
+                    },
+                    {
+                        "identifier": "contact",
+                        "name": "연락처",
+                        "url": "/contact/",
+                        "weight": 10
+                    }
+                ]
+            },
+            "languageCode": "ko",
+            "languageName": "한국어",
+            "params": {
+                "profileMode": {
+                    "enabled": true,
+                    "imageUrl": "/images/profile.png",
+                    "imageTitle": "my memoji",
+                    "title": "Jesús Fernández Jiménez",
+                    "description": "안녕하세요, 저는 Jesús입니다. 저는 테스트 분야의 소프트웨어 개발자 엔지니어입니다 🤖"
+                }
+            },
+            "title": "Jesús의 웹사이트",
+            "weight": 3
         }
     }
 }
