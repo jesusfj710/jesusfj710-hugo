@@ -43,6 +43,12 @@
             "menu": {
                 "main": [
                     {
+                        "name": "Home",
+                        "identifier": "home",
+                        "url": "/",
+                        "weight": 1
+                    },
+                    {
                         "name": "Contact",
                         "identifier": "contact",
                         "url": "/contact/",
@@ -68,6 +74,12 @@
         "es-es": {
             "menu": {
                 "main": [
+                    {
+                        "name": "Inicio",
+                        "identifier": "home",
+                        "url": "/",
+                        "weight": 1
+                    },
                     {
                         "identifier": "contact",
                         "name": "Contacto",
