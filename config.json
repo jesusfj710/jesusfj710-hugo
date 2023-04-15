@@ -1,0 +1,110 @@
+{
+    "baseURL": "https://jesusfj710.github.io/",
+    "paginate": 5,
+    "theme": "charlolamode",
+    "defaultContentLanguage": "en",
+    "params": {
+        "author": "Jesús",
+        "defaultTheme": "auto",
+        "disableThemeToggle": false,
+        "ShowShareButtons": false,
+        "ShowReadingTime": true,
+        "displayFullLangName": true,
+        "ShowBreadCrumbs": false,
+        "ShowCodeCopyButtons": true,
+        "ShowToc": true,
+        "socialIcons": [
+            {
+                "name": "github",
+                "url": "https://github.com/jesusfj710"
+            },
+            {
+                "name": "linkedin",
+                "url": "https://www.linkedin.com/in/jesusfj710"
+            }
+        ],
+        "assets": {
+            "favicon": "/images/favicon.ico",
+            "favicon16x16": "/images/favicon-16x16.png",
+            "favicon32x32": "/images/favicon-32x32.png",
+            "apple_touch_icon": "/images/apple-touch-icon.png",
+            "safari_pinned_tab": "/images/apple-touch-icon.png"
+        }
+    },
+    "enableInlineShortcodes": true,
+    "enableRobotsTXT": true,
+    "enableEmoji": true,
+    "pygmentsUseClasses": true,
+    "minify": {
+        "disableXML": true
+    },
+    "languages": {
+        "en": {
+            "menu": {
+                "main": [
+                    {
+                        "name": "Home",
+                        "identifier": "home",
+                        "url": "/",
+                        "weight": 1
+                    },
+                    {
+                        "name": "Contact",
+                        "identifier": "contact",
+                        "url": "/contact/",
+                        "weight": 10
+                    }
+                ]
+            },
+            "languageCode": "en",
+            "languageName": "English",
+            "title": "Jesús's site",
+            "params": {
+                "profileMode": {
+                    "enabled": true,
+                    "imageUrl": "/images/profile.png",
+                    "imageTitle": "my memoji",
+                    "title": "Jesús Fernández Jiménez",
+                    "description": "Hello there, I am Jesús. I am a Software Developer Engenieer in Test 🤖"
+                }
+            },
+            "copyright": "made with ♥ by [charlola](https://www.heycharlola.com/)",
+            "weight": 1
+        },
+        "es-es": {
+            "menu": {
+                "main": [
+                    {
+                        "name": "Inicio",
+                        "identifier": "home",
+                        "url": "/",
+                        "weight": 1
+                    },
+                    {
+                        "identifier": "contact",
+                        "name": "Contacto",
+                        "url": "/contact/",
+                        "weight": 10
+                    }
+                ]
+            },
+            "languageCode": "es-ES",
+            "languageName": "Español",
+            "params": {
+                "profileMode": {
+                    "enabled": true,
+                    "imageUrl": "/images/profile.png",
+                    "imageTitle": "my memoji",
+                    "title": "Jesús Fernández Jiménez",
+                    "description": "Hola, soy Jesús. Soy *Software Developer Engenieer in Test* 🤖"
+                }
+            },
+            "copyright": "hecho con ♥ por [charlola](https://www.heycharlola.com/)",
+            "main": {
+                "Contact": "Contacto"
+            },
+            "title": "Sitio de Jesús",
+            "weight": 2
+        }
+    }
+}
