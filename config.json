@@ -64,8 +64,8 @@
                     "enabled": true,
                     "imageUrl": "/images/profile.png",
                     "imageTitle": "my memoji",
-                    "title": "Jesús Fernández Jiménez",
-                    "description": "Hello there, I am Jesús. I am a Software Developer Engenieer in Test 🤖"
+                    "title": "Hello there, I am Jesús",
+                    "description": "I am a Software Developer Engenieer in Test.\n\n🤖"
                 }
             },
             "copyright": "made with ♥ by [charlola](https://www.heycharlola.com/)",
@@ -95,8 +95,8 @@
                     "enabled": true,
                     "imageUrl": "/images/profile.png",
                     "imageTitle": "my memoji",
-                    "title": "Jesús Fernández Jiménez",
-                    "description": "Hola, soy Jesús. Soy *Software Developer Engenieer in Test* 🤖"
+                    "title": "Hola, soy Jesús",
+                    "description": "Soy *Software Developer Engenieer in Test*.\n\n🤖"
                 }
             },
             "copyright": "hecho con ♥ por [charlola](https://www.heycharlola.com/)",
@@ -127,12 +127,13 @@
                     "enabled": true,
                     "imageUrl": "/images/profile.png",
                     "imageTitle": "my memoji",
-                    "title": "Jesús Fernández Jiménez",
-                    "description": "안녕하세요, 저는 Jesús입니다. 저는 테스트 분야의 소프트웨어 개발자 엔지니어입니다 🤖"
+                    "title": "안녕하세요, 저는 Jesús입니다",
+                    "description": "저는 테스트 분야의 소프트웨어 개발자 엔지니어입니다.\n\n🤖"
                 }
             },
             "title": "Jesús의 웹사이트",
-            "weight": 3
+            "weight": 3,
+            "copyright": "made with ♥ by [charlola](https://www.heycharlola.com/)"
         }
     }
 }
