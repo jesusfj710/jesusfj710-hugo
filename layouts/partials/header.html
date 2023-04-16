@@ -82,9 +82,8 @@
                 <ul class="lang-switch">
                     {{- if $separator }}<li>|</li>{{ end }}
                     {{- range . -}}
-                    {{- if ne $lang .Lang }}
                     <li>
-                        <a href="{{- .Permalink -}}"
+                        <a href="{{- .Permalink -}}" style="font-size: 14px"
                             title="{{ .Language.Params.languageAltTitle | default (.Language.LanguageName | emojify) | default (.Lang | title) }}"
                             aria-label="{{ .Language.LanguageName | default (.Lang | title) }}">
                             {{- if (and $.Site.Params.displayFullLangName (.Language.LanguageName)) }}
@@ -94,7 +93,6 @@
                             {{- end -}}
                         </a>
                     </li>
-                    {{- end -}}
                     {{- end}}
                 </ul>
                 {{- end }}

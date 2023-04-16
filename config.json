@@ -4,17 +4,18 @@
     "theme": "charlolamode",
     "defaultContentLanguage": "en",
     "params": {
+        "repository": "https://github.com/jesusfj710/jesusfj710.github.io",
         "customTextFontFamily": "Atkinson Hyperlegible",
         "customCodeFontFamily": "Fira Code",
         "author": "Jesús Fernández Jiménez",
         "defaultTheme": "auto",
         "disableThemeToggle": false,
         "ShowShareButtons": false,
-        "ShowReadingTime": true,
+        "ShowReadingTime": false,
         "displayFullLangName": true,
         "ShowBreadCrumbs": false,
         "ShowCodeCopyButtons": true,
-        "ShowToc": true,
+        "ShowToc": false,
         "socialIcons": [
             {
                 "name": "github",
@@ -51,6 +52,12 @@
                         "weight": 1
                     },
                     {
+                        "name": "Blog",
+                        "identifier": "blog",
+                        "url": "/blog/",
+                        "weight": 5
+                    },
+                    {
                         "name": "Contact",
                         "identifier": "contact",
                         "url": "/contact/",
@@ -62,15 +69,16 @@
             "languageName": "English",
             "title": "Jesús's site",
             "params": {
+                "dateFormat": "January 02, 2006",
                 "profileMode": {
                     "enabled": true,
                     "imageUrl": "/images/profile.png",
                     "imageTitle": "my memoji",
                     "title": "Hello there, I am Jesús",
-                    "description": "I am a Software Developer Engenieer in Test.\n\n🤖"
+                    "description": "I am a Software Developer Engenieer in Test.\n\n# 🤖"
                 }
             },
-            "copyright": "made with ♥ by [charlola](https://www.heycharlola.com/)",
+            "copyright": "Based on [charlola's](https://www.heycharlola.com/) work - source on my [Github repository](https://github.com/jesusfj710/jesusfj710.github.io)",
             "weight": 1
         },
         "es-es": {
@@ -83,6 +91,12 @@
                         "weight": 1
                     },
                     {
+                        "name": "Blog",
+                        "identifier": "blog",
+                        "url": "/blog/",
+                        "weight": 5
+                    },
+                    {
                         "identifier": "contact",
                         "name": "Contacto",
                         "url": "/contact/",
@@ -93,15 +107,16 @@
             "languageCode": "es-ES",
             "languageName": "Español",
             "params": {
+                "dateFormat": "02 January 2006",
                 "profileMode": {
                     "enabled": true,
                     "imageUrl": "/images/profile.png",
                     "imageTitle": "my memoji",
                     "title": "Hola, soy Jesús",
-                    "description": "Soy *Software Developer Engenieer in Test*.\n\n🤖"
+                    "description": "Soy *Software Developer Engenieer in Test*.\n\n# 🤖"
                 }
             },
-            "copyright": "hecho con ♥ por [charlola](https://www.heycharlola.com/)",
+            "copyright": "Basado en el trabajo de [charlola](https://www.heycharlola.com/) - código fuente en mi [repositorio de Github](https://github.com/jesusfj710/jesusfj710.github.io)",
             "title": "Sitio de Jesús",
             "weight": 2
         },
@@ -113,6 +128,12 @@
                         "identifier": "home",
                         "url": "/",
                         "weight": 1
+                    },
+                    {
+                        "name": "Blog",
+                        "identifier": "blog",
+                        "url": "/blog/",
+                        "weight": 5
                     },
                     {
                         "identifier": "contact",
@@ -130,12 +151,12 @@
                     "imageUrl": "/images/profile.png",
                     "imageTitle": "my memoji",
                     "title": "안녕하세요, 저는 Jesús입니다",
-                    "description": "저는 테스트 분야의 소프트웨어 개발자 엔지니어입니다.\n\n🤖"
+                    "description": "저는 테스트 분야의 소프트웨어 개발자 엔지니어입니다.\n\n# 🤖"
                 }
             },
             "title": "Jesús의 웹사이트",
             "weight": 3,
-            "copyright": "made with ♥ by [charlola](https://www.heycharlola.com/)"
+            "copyright": "Based on [charlola's](https://www.heycharlola.com/) work - source on my [Github repository](https://github.com/jesusfj710/jesusfj710.github.io)"
         }
     }
 }
