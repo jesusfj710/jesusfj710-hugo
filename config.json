@@ -132,7 +132,8 @@
                 }
             },
             "title": "Jesús의 웹사이트",
-            "weight": 3
+            "weight": 3,
+            "copyright": "made with ♥ by [charlola](https://www.heycharlola.com/)"
         }
     }
 }
