@@ -4,7 +4,9 @@
     "theme": "charlolamode",
     "defaultContentLanguage": "en",
     "params": {
-        "author": "Jesús",
+        "customTextFontFamily": "Atkinson Hyperlegible",
+        "customCodeFontFamily": "Fira Code",
+        "author": "Jesús Fernández Jiménez",
         "defaultTheme": "auto",
         "disableThemeToggle": false,
         "ShowShareButtons": false,
