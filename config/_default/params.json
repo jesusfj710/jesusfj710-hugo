@@ -9,6 +9,7 @@
     "disableThemeToggle": false,
     "ShowBreadCrumbs": false,
     "ShowCodeCopyButtons": true,
+    "ShowShareButtons": false,
     "ShowToc": false,
     "socialIcons": [
         {
