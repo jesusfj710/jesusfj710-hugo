@@ -1,0 +1,30 @@
+{
+    "enableGlobalLanguageMenu": true,
+    "repository": "https://github.com/jesusfj710/jesusfj710.github.io",
+    "enableThemeToggle": true,
+    "author": "Jesús Fernández Jiménez",
+    "customTextFontFamily": "Atkinson Hyperlegible",
+    "customCodeFontFamily": "Fira Code",
+    "displayFullLangName": true,
+    "disableThemeToggle": false,
+    "ShowBreadCrumbs": false,
+    "ShowCodeCopyButtons": true,
+    "ShowToc": false,
+    "socialIcons": [
+        {
+            "name": "github",
+            "url": "https://github.com/jesusfj710"
+        },
+        {
+            "name": "linkedin",
+            "url": "https://www.linkedin.com/in/jesusfj710"
+        }
+    ],
+    "assets": {
+        "favicon": "/images/favicon.ico",
+        "favicon16x16": "/images/favicon-16x16.png",
+        "favicon32x32": "/images/favicon-32x32.png",
+        "apple_touch_icon": "/images/apple-touch-icon.png",
+        "safari_pinned_tab": "/images/apple-touch-icon.png"
+    }
+}

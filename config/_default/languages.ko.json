@@ -1,0 +1,16 @@
+{
+    "languageCode": "ko",
+    "languageName": "한국어",
+    "params": {
+        "profileMode": {
+            "enabled": true,
+            "imageUrl": "/images/profile.png",
+            "imageTitle": "my memoji",
+            "title": "안녕하세요, 저는 Jesús입니다",
+            "description": "저는 테스트 분야의 소프트웨어 개발자 엔지니어입니다.\n\n# 🤖"
+        }
+    },
+    "title": "Jesús의 웹사이트",
+    "weight": 3,
+    "copyright": "Based on [charlola's](https://www.heycharlola.com/) work - source on my [Github repository](https://github.com/jesusfj710/jesusfj710.github.io)"
+}
