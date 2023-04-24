@@ -1,0 +1,4 @@
+{{ $sassTemplate  := resources.Get "scss/extended.scss" }}
+{{ $style := $sassTemplate | resources.ExecuteAsTemplate "main.scss" . | resources.ToCSS }}
+
+<link rel="stylesheet" href="{{ $style.Permalink }}" integrity="{{ $style.Data.Integrity }}">

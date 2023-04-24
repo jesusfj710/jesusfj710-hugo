@@ -1,0 +1,6 @@
+/* https://github.com/adityatelange/hugo-PaperMod/issues/1141#issuecomment-1399600601 */
+
+::-webkit-scrollbar {
+    width: 0px;
+    height: 11px;
+}

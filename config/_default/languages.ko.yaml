@@ -1,0 +1,11 @@
+---
+languageCode: ko
+languageName: 한국어
+params:
+  profileMode:
+    enabled: true
+    imageUrl: "/images/profile.png"
+    imageTitle: my memoji
+    title: 안녕하세요, 저는 Jesús입니다
+    subtitle: 저는 테스트 분야의 소프트웨어 개발자 엔지니어입니다.
+weight: 3

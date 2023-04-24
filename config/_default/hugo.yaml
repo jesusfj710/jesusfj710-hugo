@@ -1,0 +1,25 @@
+---
+baseURL: https://jesusfj710.github.io/
+paginate: 5
+theme: PaperMod
+title: 🤖
+copyright: 💚🤍💚 -
+keywords: [blog, website, portfolio]
+author:
+  name: Jesús Fernández Jiménez
+enableInlineShortcodes: true
+enableRobotsTXT: true
+enableEmoji: true
+pygmentsUseClasses: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+minify:
+  disableXML: true
+
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON

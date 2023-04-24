@@ -1,0 +1,12 @@
+---
+languageCode: es-an
+languageName: Andalûh
+params:
+  dateFormat: 02 January 2006
+  profileMode:
+    enabled: true
+    imageUrl: "/images/profile.png"
+    imageTitle: my memoji
+    title: Ola, çoy Heçûh
+    subtitle: Çoy *Software Developer Engenieer in Test* en [e2y](https://e2ycommerce.com/).
+weight: 2
