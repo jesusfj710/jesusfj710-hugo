@@ -6,6 +6,8 @@ topic: blog, hugo, github
 date: 2023-04-16T20:00:00+0200
 ---
 
+> ⚠️ **Actualización 24/04/2023** ⚠️: Despues de revisar que el tema de charlola era realmente (sin haber atribuido correctamente) un fork de `hugo-PaperMod` he decidido cambiarlo y actualizar la licencia del repositorio. 
+
 Despues de mucho tiempo, al final he decido hace una web donde pueda tener mi propio portfolio (en un futuro) asi como ir subiendo algun artículo sobre cosas que voy encontrando interesante.
 
 El objetivo no es otro que obligarme a documentar y a explicar como hago las cosas y así poder compartir todo.

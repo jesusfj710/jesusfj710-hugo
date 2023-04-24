@@ -6,6 +6,8 @@ topic: blog, hugo, github
 date: 2023-04-16T20:00:00+0200
 ---
 
+> ⚠️ **Update 04/24/2023** ⚠️: After checking that the charlola theme was actually (without having correctly attributed it) a fork of `hugo-PaperMod` I decided to change it and update the repository license.
+
 After a long time, I have finally decided to make a website where I can have my own portfolio (in the future) as well as uploading some articles about things I find interesting.
 
 The aim is no other than forcing myself to document and explain how I do things and thus be able to share everything.
