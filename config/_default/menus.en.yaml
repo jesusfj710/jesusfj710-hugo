@@ -1,0 +1,18 @@
+---
+main:
+- name: Home
+  identifier: home
+  url: "/"
+  weight: 1
+- name: Blog
+  identifier: blog
+  url: "/blog/"
+  weight: 5
+- name: Search
+  identifier: search
+  url: "/search/"
+  weight: 7
+- name: Contact
+  identifier: contact
+  url: "/contact/"
+  weight: 10

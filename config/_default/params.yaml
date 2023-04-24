@@ -1,0 +1,49 @@
+---
+repository: https://github.com/jesusfj710/jesusfj710.github.io
+author: Jesús Fernández Jiménez
+defaultTheme: auto
+customTextFontFamily: Atkinson Hyperlegible
+customCodeFontFamily: Fira Code
+displayFullLangName: true
+disableThemeToggle: false
+ShowBreadCrumbs: false
+ShowCodeCopyButtons: true
+DisableAnchoredHeadings: true
+ShowShareButtons: false
+ShowToc: false
+
+ShowFullTextinRSS: true
+# disableThemeToggle: true
+ShowReadingTime: true
+# disableSpecial1stPost: true
+ShowPostNavLinks: true
+ShowRssButtonInSectionTermList: true
+# comments: false
+
+socialIcons:
+  - name: github
+    url: https://github.com/jesusfj710
+  - name: linkedin
+    url: https://www.linkedin.com/in/jesusfj710
+  # - name: pgpkey
+  #   url: ...
+assets:
+  favicon: "/images/favicon.ico"
+  favicon16x16: "/images/favicon-16x16.png"
+  favicon32x32: "/images/favicon-32x32.png"
+  apple_touch_icon: "/images/apple-touch-icon.png"
+  safari_pinned_tab: "/images/apple-touch-icon.png"
+
+cover: 
+  linkFullImages: true
+  responsiveImages: true
+
+# fuseOpts:
+#   isCaseSensitive: false
+#   shouldSort: true
+#   location: 0
+#   distance: 1000
+#   threshold: 0.4
+#   minMatchCharLength: 0
+#   keys: ["title", "permalink", "summary", "content"]
+

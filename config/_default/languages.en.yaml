@@ -1,0 +1,11 @@
+---
+languageName: English
+params:
+  dateFormat: January 02, 2006
+  profileMode:
+    enabled: true
+    imageUrl: /images/profile.png
+    imageTitle: my memoji
+    title: Hello there, I\'m Jesús
+    subtitle: I'm a Software Developer Engenieer in Test @ [e2y](https://e2ycommerce.com/).
+weight: 1

@@ -1,0 +1,18 @@
+---
+main:
+- name: Iniçio
+  identifier: home
+  url: "/"
+  weight: 1
+- name: Blôh
+  identifier: blog
+  url: "/blog/"
+  weight: 5
+- name: Bûqqueda
+  identifier: search
+  url: "/search/"
+  weight: 7
+- name: Contâtto
+  identifier: contact
+  url: "/contact/"
+  weight: 10
