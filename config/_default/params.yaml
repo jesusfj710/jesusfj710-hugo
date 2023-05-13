@@ -20,6 +20,8 @@ ShowPostNavLinks: true
 ShowRssButtonInSectionTermList: true
 # comments: false
 
+TitleWebPage: "Wololo"
+
 socialIcons:
   - name: github
     url: https://github.com/jesusfj710
