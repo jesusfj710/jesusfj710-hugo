@@ -17,4 +17,4 @@ jobs:
           labelPullRequestsWhenApproved: "false"
           labelPullRequestsWhenReviewNeeded: "true"
           failJobsWhenReviewNeeded: "false"
-          approvethreshold: "0.900"
+          approveThreshold: "0.900"
