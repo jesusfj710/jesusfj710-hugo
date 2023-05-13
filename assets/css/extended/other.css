@@ -1,3 +1,11 @@
 .lang-switch a {
     font-weight: 300;
 }
+
+abbr {
+    font-style: italic;
+}
+
+sup {
+    font-size: 80%;
+}
