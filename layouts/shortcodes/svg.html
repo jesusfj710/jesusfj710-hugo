@@ -1,4 +1,6 @@
 {{$svg := .Get 0}}
-<div class="svg-fill-background">
+{{$width := .Get 1 | default "100%"}}
+
+<div class="svg-fill-background" style="width: {{$width}}; margin: 0 auto">
     {{ $svg | readFile | safeHTML }}
 </div>
