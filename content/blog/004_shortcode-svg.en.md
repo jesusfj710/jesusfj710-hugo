@@ -11,7 +11,7 @@ I recently changed my workflow to work with the web, and to show the details, I 
 
 ## Limitations encountered 🚧
 
-When I tried to import the SVG directly into the content of the entry, I ran into some problems. Más que problemas, eran limitaciones como las siguientes:
+When I tried to import the SVG directly into the content of the entry, I ran into some problems. More than problems, they were limitations such as the following:
 
 * The need to define a background.
 * Limited to a single colour profile. You cannot have one for light mode and one for dark mode.
