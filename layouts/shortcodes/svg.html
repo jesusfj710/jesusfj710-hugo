@@ -1,0 +1,4 @@
+{{$svg := .Get 0}}
+<div class="svg-fill-background">
+    {{ $svg | readFile | safeHTML }}
+</div>
