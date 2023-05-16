@@ -1,7 +1,7 @@
 ---
 title: Aportando al Software Libre
 type: page
-topic: FOSS, WDIO, Cucumber, QA
+tags: ["FOSS", "Webdriver.io", "Cucumber", "QA"]
 date: 2023-05-13T16:00:00+0200
 ---
 

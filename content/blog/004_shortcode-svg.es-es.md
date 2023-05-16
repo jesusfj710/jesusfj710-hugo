@@ -1,7 +1,7 @@
 ---
 title: Creando un shortcode para insertar SVG en Hugo
 type: page
-topic: hugo, shortcode, svg
+tags: ["Hugo", "shortcode", "SVG"]
 date: 2023-05-14T18:00:00+0200
 ---
 

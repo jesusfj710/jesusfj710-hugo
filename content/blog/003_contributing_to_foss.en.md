@@ -1,17 +1,17 @@
 ---
 title: Contributing to FOSS
 type: page
-topic: FOSS, WDIO, Cucumber, QA
+tags: ["FOSS", "Webdriver.io", "Cucumber", "QA"]
 date: 2023-05-13T16:00:00+0200
 ---
 
 Good afternoon, everyone!
 
-The other day, I shared on my LinkedIn that I was going to start contributing to [{{< abbrebiation abbrebiation="FOSS" description="Software libre y de código abierto" >}}](https://en.wikipedia.org/wiki/Free_and_open-source_software) projects because of the high impact these tools have on my work.
+The other day, I shared on my LinkedIn that I was going to start contributing to [{{< abbrebiation abbrebiation="FOSS" description="Free and Open Source Software" >}}](https://en.wikipedia.org/wiki/Free_and_open-source_software) projects because of the high impact these tools have on my work.
 
 The truth is, even a small contribution can help a project cover the cost of a domain or other expenses.
 
-In the context of SDET (Software Development Engineer in Test) and the QA (Quality Assurance) department in IT companies, I believe we rely heavily on these tools, but we usually don't give much back. I understand that for personal projects that we abandon after a few days, we may not consider contributing monetarily (although that's not the only way), but considering the impact and ease they provide us, I think it's the right thing to do.
+In the context of {{< abbrebiation abbrebiation="SDET" description="Software Development Engineer in Test" >}} and the {{< abbrebiation abbrebiation="QA" description="Quality Assurance" >}} department in IT companies, I believe we rely heavily on these tools, but we usually don't give much back. I understand that for personal projects that we abandon after a few days, we may not consider contributing monetarily (although that's not the only way), but considering the impact and ease they provide us, I think it's the right thing to do.
 
 Lately, all of this has been on my mind, and talking to colleagues at work, I feel that I'm not alone in this opinion. The triggering event that made me take the step forward was when the author of [Software Testing Weekly](https://softwaretestingweekly.com) newsletter (which I highly recommend) mentioned a couple of weeks ago that the last original maintainer of Cucumber had been laid off and would no longer work on that project apparently (more info [here](https://softwaretestingweekly.com/issues/166) and [here](https://mattwynne.net/new-beginning)).
 

@@ -1,7 +1,7 @@
 ---
 title: Transformando la estructura de la web
 type: page
-topic: hugo, gha, github, github actions, codabal.ai, github pages
+tags: ["Hugo", "Github", "Github Actions", "codabal.ai", "Github Pages"]
 date: 2023-05-15T18:00:00+0200
 ---
 

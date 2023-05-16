@@ -1,7 +1,7 @@
 ---
 title: ¡Andaluces levantaos!
 type: page
-topic: blog, hugo, andaluh
+tags: ["web", "Hugo", "andalûh"]
 date: 2023-04-22T16:00:00+0200
 ---
 
