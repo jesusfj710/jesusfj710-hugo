@@ -2,7 +2,7 @@
 title: First post!
 type: page
 description: This is the first post on my website.
-topic: blog, hugo, github
+tags: ["blog", "Hugo", "Github", "web"]
 date: 2023-04-16T20:00:00+0200
 ---
 

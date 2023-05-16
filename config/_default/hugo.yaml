@@ -4,7 +4,7 @@ paginate: 5
 theme: PaperMod
 title: 🤖
 copyright: 💚🤍💚 -
-keywords: [blog, website, portfolio]
+keywords: ["blog", "website", "portfolio"]
 author:
   name: Jesús Fernández Jiménez
 enableInlineShortcodes: true
@@ -14,6 +14,9 @@ pygmentsUseClasses: true
 buildDrafts: false
 buildFuture: false
 buildExpired: false
+
+taxonomies:
+  tag: tags
 
 minify:
   disableXML: true
