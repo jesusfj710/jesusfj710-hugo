@@ -9,3 +9,5 @@ params:
     title: Hello there, I\'m Jesús
     subtitle: I'm a Software Developer Engineer in Test @ [e2y](https://e2ycommerce.com/).
 weight: 1
+taxonomies:
+  tag: tags

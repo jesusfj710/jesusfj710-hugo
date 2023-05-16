@@ -10,3 +10,5 @@ params:
     title: Ola, çoy Heçûh
     subtitle: Çoy *Software Developer Engineer in Test* en [e2y](https://e2ycommerce.com/).
 weight: 2
+taxonomies:
+  tag: tags
