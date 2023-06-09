@@ -25,6 +25,8 @@ socialIcons:
     url: https://github.com/jesusfj710
   - name: linkedin
     url: https://www.linkedin.com/in/jesusfj710
+  - name: protonmail
+    url: jesusfj710@proton.me
   - name: pgpkey
     url: https://raw.githubusercontent.com/jesusfj710/jesusfj710/main/PGP/publickey.jesusfj710%40proton.me-816b42d401517d459be24aae1b31d9d930a4ab1c.asc
 assets:
