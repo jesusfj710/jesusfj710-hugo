@@ -49,3 +49,5 @@ fuseOpts:
   # minMatchCharLength: 2
   keys: ["title", "permalink", "summary", "content", "tags"]
 
+label:
+  text: 🤖
