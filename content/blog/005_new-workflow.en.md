@@ -1,5 +1,6 @@
 ---
 title: Transforming the structure of the web repos
+slug: transforming-the-structure-of-the-web-repos
 type: page
 tags: ["Hugo", "Github", "Github Actions", "codabal.ai", "Github Pages"]
 date: 2023-05-15T18:00:00+0200

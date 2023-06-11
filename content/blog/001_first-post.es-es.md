@@ -1,5 +1,6 @@
 ---
 title: ¡Primer post!
+slug: primer-post
 type: page
 description: Este es el primer post de mi web.
 tags: ["blog", "Hugo", "Github","web"]
