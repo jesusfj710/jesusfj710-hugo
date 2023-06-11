@@ -8,7 +8,3 @@ main:
   identifier: blog
   url: "/blog/"
   weight: 5
-- identifier: contact
-  name: 연락처
-  url: "/contact/"
-  weight: 10

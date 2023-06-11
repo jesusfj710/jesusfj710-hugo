@@ -12,7 +12,3 @@ main:
   identifier: search
   url: "/search/"
   weight: 7
-- identifier: contact
-  name: Contacto
-  url: "/contact/"
-  weight: 10
