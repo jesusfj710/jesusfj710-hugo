@@ -2,6 +2,9 @@
 languageCode: es-es
 languageName: Español
 params:
+  cover:
+    responsiveImages: true
+    linkFullImages: false
   dateFormat: 02 January 2006
   profileMode:
     enabled: true

@@ -2,6 +2,9 @@
 languageCode: ko
 languageName: 한국어
 params:
+  cover:
+    responsiveImages: true
+    linkFullImages: false
   profileMode:
     enabled: true
     imageUrl: "/images/profile.png"

@@ -1,7 +1,6 @@
 ---
 title: Transformando la estructura de la web
 slug: transformando-la-structura-de-la-web
-type: page
 tags: ["Hugo", "Github", "Github Actions", "codabal.ai", "Github Pages"]
 date: 2023-05-15T18:00:00+0200
 ---

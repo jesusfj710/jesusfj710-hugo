@@ -1,7 +1,6 @@
 ---
 title: ¡Primer post!
 slug: primer-post
-type: page
 description: Este es el primer post de mi web.
 tags: ["blog", "Hugo", "Github","web"]
 date: 2023-04-16T20:00:00+0200

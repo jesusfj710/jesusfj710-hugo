@@ -8,6 +8,10 @@ main:
   identifier: blog
   url: "/blog/"
   weight: 5
+- name: Projects
+  identifier: projects
+  url: "/projects/"
+  weight: 6
 - name: Search
   identifier: search
   url: "/search/"
