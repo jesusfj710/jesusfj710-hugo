@@ -1,6 +1,9 @@
 ---
 languageName: English
 params:
+  cover:
+    responsiveImages: true
+    linkFullImages: false
   dateFormat: January 02, 2006
   profileMode:
     enabled: true

@@ -9,3 +9,11 @@ abbr {
 sup {
     font-size: 80%;
 }
+
+.entry-cover img {
+    border-radius: var(--radius);
+    pointer-events: none;
+    width: 100%;
+    object-fit: cover;
+    height: 300px;
+}

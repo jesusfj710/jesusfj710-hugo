@@ -1,7 +1,6 @@
 ---
 title: Aportando al Software Libre
 slug: aportando-al-software-libre
-type: page
 tags: ["FOSS", "Webdriver.io", "Cucumber", "QA"]
 date: 2023-05-13T16:00:00+0200
 ---
