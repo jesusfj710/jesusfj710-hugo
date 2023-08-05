@@ -5,6 +5,10 @@ tags: ["Hugo", "Github", "Github Actions", "codabal.ai", "Github Pages"]
 date: 2023-05-15T18:00:00+0200
 ---
 
+**2023/08/05 Update**: Codeball.ai is no longer available. I have remove the actions related to it but the post will remain as it is for archival purposes.
+
+---
+
 Hello everyone!
 
 The other day I was busy going through some information about Hugo, Github Actions, etc and decided to change the way the website works because it seemed like the right thing to do.
