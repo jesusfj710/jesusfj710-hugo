@@ -10,7 +10,7 @@ params:
     imageUrl: /images/profile.png
     imageTitle: my memoji
     title: Hello there, I\'m Jesús
-    subtitle: I'm a Software Developer Engineer in Test @ [e2y](https://e2ycommerce.com/).
+    subtitle: I'm a Software Developer Engineer in Test.
 weight: 1
 taxonomies:
   tag: tags
