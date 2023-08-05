@@ -17,3 +17,13 @@ sup {
     object-fit: cover;
     height: 300px;
 }
+
+@media screen and (max-width: 549px) {
+    .main {
+        min-height: calc(100vh - var(--header-height) * 2 - var(--footer-height));
+    }
+}
+
+.main .profile {
+    min-height: calc(100vh - var(--header-height) * 2 - var(--footer-height) - (var(--gap) * 2));
+}
