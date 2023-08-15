@@ -2,6 +2,7 @@
 languageCode: ko
 languageName: 한국어
 params:
+  description: "I'm QA Engineer. On this website, I share experiences about technology, web development, quality assurance, and more."
   cover:
     responsiveImages: true
     linkFullImages: false
@@ -10,9 +11,8 @@ params:
     imageUrl: "/images/profile.png"
     imageTitle: my memoji
     title: 안녕하세요, 저는 Jesús입니다
-    subtitle: 저는 테스트 분야의 소프트웨어 개발자 엔지니어입니다.
+    subtitle: QA Engineer @ [TROOP](https://trooptravel.com).
 weight: 3
 taxonomies:
   tag: tags
-title: Jesús Fernández Jiménez - SDET and Tech Enthusiast
-description: "I'm an SDET specializing in Ecommerce. On this website, I share experiences about technology, web development, quality assurance, and more."
+title: Jesús Fernández Jiménez - QA Engineer and Tech Enthusiast

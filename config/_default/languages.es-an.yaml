@@ -2,6 +2,7 @@
 languageCode: es-an
 languageName: Andalûh
 params:
+  description: "Çoy QA Engineer. En êtta wêh, comparto êpperiençiâ çobre tênnolohía, deçarroyo wêh, QA y mâh."
   cover:
     responsiveImages: true
     linkFullImages: false
@@ -11,9 +12,8 @@ params:
     imageUrl: "/images/profile.png"
     imageTitle: my memoji
     title: Ola, çoy Heçûh
-    subtitle: Çoy *Software Developer Engineer in Test*.
+    subtitle: "*QA Engineer* @ [TROOP](https://trooptravel.com)."
 weight: 2
 taxonomies:
   tag: tags
-title: Jesús Fernández Jiménez - SDET y entuçiâtta de la tênnolohía
-description: "Çoy un SDET êppeçialidao en Ecômmerçe. En êtta wêh, comparto êpperiençiâ çobre tênnolohía, deçarroyo wêh, QA y mâh."
+title: Jesús Fernández Jiménez - QA Engineer y entuçiâtta de la tênnolohía

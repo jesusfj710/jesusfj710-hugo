@@ -2,6 +2,7 @@
 languageCode: es-es
 languageName: Español
 params:
+  description: "Soy QA Engineer. En esta web, comparto experiencias sobre tecnología, desarrollo web, QA y más."
   cover:
     responsiveImages: true
     linkFullImages: false
@@ -11,9 +12,8 @@ params:
     imageUrl: "/images/profile.png"
     imageTitle: my memoji
     title: Hola, soy Jesús
-    subtitle: Soy *Software Developer Engineer in Test*.
+    subtitle: "*QA Engineer* @ [TROOP](https://trooptravel.com)."
 weight: 3
 taxonomies:
   tag: tags
-title: Jesús Fernández Jiménez - SDET y entusiasta de la tecnología
-description: "Soy un SDET especialidado en Ecommerce. En esta web, comparto experiencias sobre tecnología, desarrollo web, QA y más."
+title: Jesús Fernández Jiménez - QA Engineer y entusiasta de la tecnología
