@@ -5,14 +5,14 @@ params:
     responsiveImages: true
     linkFullImages: false
   dateFormat: January 02, 2006
+  description: "I'm QA Engineer. On this website, I share experiences about technology, web development, quality assurance, and more."
   profileMode:
     enabled: true
     imageUrl: /images/profile.png
     imageTitle: my memoji
     title: Hello there, I\'m Jesús
-    subtitle: I'm a Software Developer Engineer in Test.
+    subtitle: QA Engineer @ [TROOP](https://trooptravel.com).
 weight: 1
 taxonomies:
   tag: tags
-title: Jesús Fernández Jiménez - SDET and Tech Enthusiast
-description: "I'm an SDET specializing in Ecommerce. On this website, I share experiences about technology, web development, quality assurance, and more."
+title: Jesús Fernández Jiménez - QA Engineer and Tech Enthusiast
