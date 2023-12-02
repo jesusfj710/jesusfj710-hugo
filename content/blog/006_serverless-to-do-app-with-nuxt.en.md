@@ -19,7 +19,7 @@ This requirement led me to choose [Nuxt3](https://nuxt.com/docs/getting-started/
 
 For this, I developed a super-simple task management application. The functionality of the application is very basic, serving more as a concept, although I had fun (and struggled) working with TailwindCSS and design in general.
 
-You can find the repository [here](https://github.com/jesusfj710/nuxt-to-do-app).
+You can find the repository [here](https://github.com/jesusfj710/nuxt-to-do-app) and the application [here](https://jesusfj710.github.io/to-do-app).
 
 ## Technology Stack
 

@@ -19,7 +19,7 @@ Este requisito hizo que aterrizara eligiendo [Nuxt3](https://nuxt.com/docs/getti
 
 Con todo, he desarrollado una aplicación super simple para gestionar tareas. La funcionalidad de la aplicación es muy básica y solo es como concepto, aunque me he divertido (y sufrido) peleándome con TailwindCSS y el diseño en general.
 
-El repositorio lo puedes encontrar [aquí](https://github.com/jesusfj710/nuxt-to-do-app).
+El repositorio lo puedes encontrar [aquí](https://github.com/jesusfj710/nuxt-to-do-app) y la aplicación [aquí](https://jesusfj710.github.io/to-do-app).
 
 ## Stack tecnológico
 
