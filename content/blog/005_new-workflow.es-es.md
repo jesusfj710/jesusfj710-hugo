@@ -34,11 +34,11 @@ Con el nuevo flujo, podrías tener el repositorio con los archivos estáticos p�
 
 ## Nuevo flujo de trabajo
 
-En este nuevo flujo vamos a tener dos depositorios, uno que es como el antiguo, donde está todo el codebase de Hugo, y otro donde simplemente estarán los estáticos de la web.
+En este nuevo flujo vamos a tener dos repositorios, uno que es como el antiguo, donde está todo el codebase de Hugo, y otro donde simplemente estarán los estáticos de la web.
 
 Y realmente, una vez implementados los cambios, tampoco cambia mucho el flujo. En el último paso del antiguo flujo es dónde hacemos cambios: ahora generamos la carpeta `public` en el repositorio original, pero no la publicamos. Ahora está se sube al repositorio nuevo con una Github Action. Una vez se pushea esta información al nuevo repositorio, se ejecuta la publicación del sitio web estático.
 
-Este gráfico puede explicar un poquito el flujo, aunque estoy seguro que está mal definido porque nunca llegue a aprender diagramas secuenciales 😅: {{< svg "static/images/blog/005/diagram.svg">}}
+Este gráfico puede explicar un poquito el flujo, aunque estoy seguro que está mal definido porque nunca llegué a aprender diagramas secuenciales 😅: {{< svg "static/images/blog/005/diagram.svg">}}
 
 Esto es útil si por ejemplo queremos ocultar el reposition original. En mi caso, estoy usando *codeball.ai* y solo es gratis para los repositorios públicos, así que de momento, voy a mantener ambos repos públicos, pero quién sabe.
 
